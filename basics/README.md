@@ -1,3 +1,5 @@
 # Shell, basics
 
-This directory contains Bash scripts for the Shell, basics project.
+0-current_working_directory - Prints the absolute path of the current working directory.
+
+1-listit - Displays the contents of the current directory.
