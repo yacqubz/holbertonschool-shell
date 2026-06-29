@@ -25,3 +25,5 @@
 11-lists - Lists the current directory, parent directory, and /boot in long format including hidden files.
 
 12-file_type - Prints the type of the file /tmp/iamafile.
+
+13-symbolic_link - Creates a symbolic link named __ls__ that points to /bin/ls.
