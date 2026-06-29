@@ -13,3 +13,5 @@
 5-listfilesdigitonly - Displays all files in long format with numeric user and group IDs.
 
 6-firstdirectory - Creates the directory /tmp/my_first_directory.
+
+7-movethatfile - Moves the file betty into /tmp/my_first_directory.
