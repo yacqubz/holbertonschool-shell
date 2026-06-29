@@ -21,3 +21,5 @@
 9-firstdirdeletion - Deletes the empty directory /tmp/my_first_directory.
 
 10-back - Changes the working directory to the previous directory.
+
+11-lists - Lists the current directory, parent directory, and /boot in long format including hidden files.
