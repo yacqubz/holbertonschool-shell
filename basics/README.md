@@ -11,3 +11,5 @@
 4-listmorefiles - Displays all files, including hidden files, in long format.
 
 5-listfilesdigitonly - Displays all files in long format with numeric user and group IDs.
+
+6-firstdirectory - Creates the directory /tmp/my_first_directory.
