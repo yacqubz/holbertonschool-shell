@@ -15,3 +15,5 @@
 7-everybody - Adds execute permission to the owner, group, and others for the file hello.
 
 8-James_Bond - Sets the permissions of hello so only others have read, write, and execute permissions.
+
+9-John_Doe - Sets the permissions of hello to rwxr-x-wx.
