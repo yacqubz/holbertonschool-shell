@@ -17,3 +17,5 @@
 8-James_Bond - Sets the permissions of hello so only others have read, write, and execute permissions.
 
 9-John_Doe - Sets the permissions of hello to rwxr-x-wx.
+
+10-mirror_permissions - Sets the permissions of hello to match the permissions of olleh.
