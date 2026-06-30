@@ -21,3 +21,5 @@
 10-mirror_permissions - Sets the permissions of hello to match the permissions of olleh.
 
 11-directories_permissions - Adds execute permission to all subdirectories for the owner, group, and others without changing regular files.
+
+12-directory_permissions - Creates a directory named my_dir with permissions 751.
