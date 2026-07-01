@@ -39,3 +39,5 @@
 19-AZ - Replaces all occurrences of A with Z and c with e from standard input.
 
 20-hiago - Removes all occurrences of the letters c and C from standard input.
+
+21-reverse - Reverses each line of text received from standard input.
