@@ -33,3 +33,5 @@
 16-whatsnext - Displays lines containing "root" and the three lines that follow them from /etc/passwd.
 
 17-hidethisword - Displays all lines from /etc/passwd that do not contain the pattern "bin".
+
+18-letteronly - Displays lines from /etc/ssh/sshd_config that start with a letter.
