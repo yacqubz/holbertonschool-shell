@@ -41,3 +41,5 @@
 20-hiago - Removes all occurrences of the letters c and C from standard input.
 
 21-reverse - Reverses each line of text received from standard input.
+
+22-users_and_homes - Displays all users and their home directories from /etc/passwd, sorted alphabetically by username.
