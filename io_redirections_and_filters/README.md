@@ -27,3 +27,5 @@
 13-unique - Displays only words that appear exactly once from standard input.
 
 14-findthatword - Displays lines from /etc/passwd that contain the pattern "root".
+
+15-countthatword - Counts the number of lines in /etc/passwd that contain the pattern "bin".
