@@ -17,3 +17,5 @@
 8-cwd_state - Saves the output of ls -la into the file ls_cwd_content.
 
 9-duplicate_last_line - Appends the last line of the file iacta to the end of the same file.
+
+10-no_more_js - Deletes all regular .js files in the current directory and its subdirectories.
