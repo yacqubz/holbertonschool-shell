@@ -37,3 +37,5 @@
 18-letteronly - Displays lines from /etc/ssh/sshd_config that start with a letter.
 
 19-AZ - Replaces all occurrences of A with Z and c with e from standard input.
+
+20-hiago - Removes all occurrences of the letters c and C from standard input.
