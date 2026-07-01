@@ -19,3 +19,5 @@
 9-duplicate_last_line - Appends the last line of the file iacta to the end of the same file.
 
 10-no_more_js - Deletes all regular .js files in the current directory and its subdirectories.
+
+11-directories - Counts the number of directories and subdirectories in the current directory, excluding the current directory itself.
