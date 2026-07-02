@@ -7,3 +7,5 @@
 3-paths - Counts the number of directories listed in the PATH variable.
 
 4-global_variables - Lists all environment (global) variables.
+
+5-local_variables - Lists all local variables, environment variables, and functions.
