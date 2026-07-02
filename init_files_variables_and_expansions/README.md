@@ -23,3 +23,5 @@
 11-binary_to_decimal - Converts a binary number stored in BINARY to decimal.
 
 12-combinations - Prints every two-letter combination except oo.
+
+13-print_float - Prints the value of NUM formatted to two decimal places.
