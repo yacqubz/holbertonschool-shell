@@ -19,3 +19,5 @@
 9-divide_and_rule - Prints the result of dividing the POWER environment variable by the DIVIDE environment variable.
 
 10-love_exponent_breath - Prints the result of BREATH raised to the power of LOVE.
+
+11-binary_to_decimal - Converts a binary number stored in BINARY to decimal.
