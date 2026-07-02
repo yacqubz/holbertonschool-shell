@@ -25,3 +25,5 @@
 12-combinations - Prints every two-letter combination except oo.
 
 13-print_float - Prints the value of NUM formatted to two decimal places.
+
+14-decimal_to_hexadecimal - Converts the DECIMAL environment variable from base 10 to hexadecimal.
